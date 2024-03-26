@@ -1,0 +1,24 @@
+/* Set the font family for the entire document */
+body {
+  font-family: Arial, sans-serif;
+  /* Reset margin and padding to 0 */
+  margin: 0;
+  padding: 0;
+}
+
+/* Style for <h1> elements */
+h1 {
+  /* Add padding around the heading */
+  padding: 20px;
+  /* Set background color */
+  background-color: #f8f9fa;
+}
+
+/* Style for the element with ID 'json-data' */
+#json-data {
+  /* Add margin and padding */
+  margin: 20px;
+  padding: 20px;
+  /* Add border with a color */
+  border: 1px solid #dee2e6;
+}
